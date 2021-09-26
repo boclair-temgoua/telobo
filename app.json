@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "telebo",
+    "name": "Telebo",
     "slug": "telebo",
+    "description": "This is thetelebo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/setting.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons/setting.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icons/setting.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icons/setting.png"
     }
   }
 }
